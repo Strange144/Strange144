@@ -26,45 +26,57 @@
 <hr style="border: none; height: 0.2px; background-color: #444; width: 60%; margin: 15px auto;">
 <br>
 <p align="center">
+
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-0d1117?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Ruby-0d1117?style=for-the-badge&logo=ruby&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+
+  <br><br>
 
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
 
-  <!-- Backend & Frameworks -->
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-0d1117?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <br><br>
 
-  <!-- CMS & Platforms -->
-  <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-0d1117?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-0d1117?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Hibernate-0d1117?style=for-the-badge&logo=hibernate&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+
+  <br><br>
+
+  <!-- CMS -->
+  <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Shopify-0d1117?style=for-the-badge&logo=shopify&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/WooCommerce-0d1117?style=for-the-badge&logo=woocommerce&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+
+  <br><br>
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+
+  <br><br>
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=white" style="border:1px solid #30363d; border-radius:6px;" />
+
 </p>
 </br>
 
