@@ -4,8 +4,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <img src = "This pin is all about coding.gif"/>
 
-<p align="center">Hi, I’m Ansul Joshi, a BSc CS student. Turning late-night ideas into real-world code, I enjoy building modern web apps that are clean, functional, and impactful. Constantly learning and experimenting, I aim to create digital experiences that not only work well but also feel intuitive and meaningful.
-</p>
+<h4 align="center">Hi, I’m Ansul Joshi, a BSc CS student. Turning late-night ideas into real-world code, I enjoy building modern web apps that are clean, functional, and impactful. Constantly learning and experimenting, I aim to create digital experiences that not only work well but also feel intuitive and meaningful.
+</h4>
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_USERNAME">
   <img src="linkedin-app-white-icon.webp" height="42"/>
