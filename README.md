@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  <img src="linkedin-square-icon.webp" height="42"/>
 </a>
   
   <a href="https://github.com/YOUR_USERNAME">
