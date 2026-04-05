@@ -7,23 +7,22 @@
 <p align="center">Hi, I’m Ansul Joshi, a BSc CS student. Turning late-night ideas into real-world code, I enjoy building modern web apps that are clean, functional, and impactful. Constantly learning and experimenting, I aim to create digital experiences that not only work well but also feel intuitive and meaningful.
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="40"/>
   </a>
   
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="40"/>
   </a>
   
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" height="40"/>
   </a>
   
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="40"/>
   </a>
 </p>
-
 
 <p align="center">
   <!-- Languages -->
