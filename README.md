@@ -10,15 +10,15 @@
 <a href="https://linkedin.com/in/YOUR_USERNAME">
   <img src="linkedin-app-white-icon.webp" height="28"/>
 </a>
-<span></span>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://cdn.simpleicons.org/github/ffffff" height="30"/>
   </a>
-  
+    &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/YOUR_USERNAME">
     <img src="https://cdn.simpleicons.org/instagram/ffffff" height="30"/>
   </a>
-  
+    &nbsp;&nbsp;&nbsp;
   <a href="mailto:yourmail@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/ffffff" height="30"/>
   </a>
