@@ -27,54 +27,54 @@
 <br>
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-090909?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-090909?style=for-the-badge&logo=ruby&logoColor=white" />
 
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-090909?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-090909?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
   <!-- Backend & Frameworks -->
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-090909?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-090909?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-090909?style=for-the-badge&logo=hibernate&logoColor=white" />
 
   <!-- CMS & Platforms -->
-  <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-000000?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-000000?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-090909?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-090909?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-090909?style=for-the-badge&logo=woocommerce&logoColor=white" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=white" />
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-090909?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 </br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Strange144&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Strange144&theme=dark&background=090909&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" height="165"/>
 </p>
 
 
 
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Strange144&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Strange144&bg_color=090909&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
