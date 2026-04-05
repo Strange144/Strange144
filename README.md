@@ -69,8 +69,6 @@
 </br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strange144&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true" height="165"/>
-  
   <img src="https://streak-stats.demolab.com?user=Strange144&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" height="165"/>
 </p>
 
