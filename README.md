@@ -69,7 +69,7 @@
 </br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Strange144&theme=dark&background=090909&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Strange144&theme=dark&background=090909&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=flase" height="165"/>
 </p>
 
 
