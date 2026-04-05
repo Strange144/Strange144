@@ -72,9 +72,7 @@
   <img src="https://streak-stats.demolab.com?user=Strange144&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Strange144&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+
 
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strange144&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
