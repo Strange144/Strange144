@@ -23,7 +23,7 @@
     <img src="https://cdn.simpleicons.org/gmail/ffffff" height="30"/>
   </a>
 </p>
-<hr style="border: none; height: 0.5px; background-color: #444; width: 50%">
+<hr style="border: none; height: 0.5px; background-color: #444; width: 60%; margin: 15px auto;">
 <br>
 <p align="center">
   <!-- Languages -->
