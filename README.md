@@ -1,7 +1,16 @@
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<!-- Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <img src = "This pin is all about coding.gif"/>
 <p align="center">Hi, I’m Ansul Joshi, a BSc CS student. Turning late-night ideas into real-world code, I enjoy building modern web apps that are clean, functional, and impactful. Constantly learning and experimenting, I aim to create digital experiences that not only work well but also feel intuitive and meaningful.
 </p>
-
+<div class="social-icons">
+        <i class="fab fa-linkedin"></i>
+        <i class="fab fa-github"></i>
+        <i class="fab fa-instagram"></i>
+        <i class="fas fa-envelope"></i>
+    </div>
 <br/>
 
 <p align="center">
