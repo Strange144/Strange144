@@ -24,7 +24,7 @@
   </a>
 </p>
 <hr style="border: none; height: 0.2px; background-color: #444; width: 60%; margin: 15px auto;">
-
+<br>
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -65,6 +65,18 @@
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+</br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Strange144&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true" height="165"/>
+  
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" height="165"/>
+</p>
+
+<!-- Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strange144&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"/>
 </p>
 
 <div align = "center"> 
