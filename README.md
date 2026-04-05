@@ -7,9 +7,9 @@
 <p align="center">Hi, I’m Ansul Joshi, a BSc CS student. Turning late-night ideas into real-world code, I enjoy building modern web apps that are clean, functional, and impactful. Constantly learning and experimenting, I aim to create digital experiences that not only work well but also feel intuitive and meaningful.
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://cdn.simpleicons.org/linkedin" height="42" style="filter: invert(1);" />
-  </a>
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
   
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://cdn.simpleicons.org/github/ffffff" height="40"/>
