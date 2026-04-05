@@ -1,52 +1,74 @@
-<div align="center">
-
-  <img src="This pin is all about coding.gif" alt="Coding Banner" width="840"/>
-
-  <br/><br/>
-
-  <p>
-    Hi, I'm <b>Ansul Joshi</b>, a BSc CS student. Turning late-night ideas into real-world code, I enjoy building modern web apps that are clean, functional, and impactful. Constantly learning and experimenting, I aim to create digital experiences that not only work well but also feel intuitive and meaningful.
-  </p>
-
-  <br/>
-
-  <a href="https://www.linkedin.com/in/anshul-joshi-767739199/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/anshul009-18">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-</div>
+<!-- TOP GIF BANNER -->
+<p align="center">
+  <img src="YOUR_GIF_LINK_HERE" width="100%" />
+</p>
 
 ---
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+## 👋 Hi, I'm Ansul Joshi
 
-<div align="center">
+💻 BSc CS Student  
+🚀 Turning late-night ideas into real-world code  
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,python,spring,tailwind,bootstrap,mongodb,mysql,postgres,git,github,docker,postman,vscode,figma&perline=11" alt="Tech Stack"/>
-
-</div>
+I enjoy building modern web apps that are clean, functional, and impactful.  
+Constantly learning and experimenting, I aim to create digital experiences that feel intuitive and meaningful.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshul009-18&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" height="195"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul009-18&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" height="195"/>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://instagram.com/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul009-18&bg_color=0d1117&color=c9d1d9&line=c9d1d9&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Ansul's%20Contribution%20Graph" alt="Contribution Graph" width="840"/>
-</div>
+## 👀 Profile Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=grey&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=grey" />
+</p>
+
+---
+
+## ⚙️ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,mysql,html,css,git,github&theme=light" />
+</p>
+
+<!-- For black & white look -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git&theme=light&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000" width="48%" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=ffffff&line=888888&point=ffffff&hide_border=true" width="100%" />
+</p>
+
+---
