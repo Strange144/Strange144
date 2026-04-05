@@ -6,20 +6,8 @@
 
 <p align="center">Hi, I’m Ansul Joshi, a BSc CS student. Turning late-night ideas into real-world code, I enjoy building modern web apps that are clean, functional, and impactful. Constantly learning and experimenting, I aim to create digital experiences that not only work well but also feel intuitive and meaningful.
 </p>
-<div class="social-icons">
-        <i class="fab fa-linkedin"></i>
-        <i class="fab fa-github"></i>
-        <i class="fab fa-instagram"></i>
-        <i class="fas fa-envelope"></i>
-    </div>
-<br/>
 
 
-
-<br/>
-<br/>
-
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -39,9 +27,6 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<br/>
-
-<h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strange144&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
