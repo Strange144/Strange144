@@ -7,19 +7,19 @@
 <h4 align="center">Hi, I’m Ansul Joshi, a BSc CS student. Turning late-night ideas into real-world code, I enjoy building modern web apps that are clean, functional, and impactful. Constantly learning and experimenting, I aim to create digital experiences that not only work well but also feel intuitive and meaningful.
 </h4>
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/ansuljoshi/">
   <img src="linkedin-app-white-icon.webp" height="28"/>
 </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Strange144">
     <img src="https://cdn.simpleicons.org/github/ffffff" height="30"/>
   </a>
     &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/ansul_joshi14">
     <img src="https://cdn.simpleicons.org/instagram/ffffff" height="30"/>
   </a>
     &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:ansuljoshi144@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/ffffff" height="30"/>
   </a>
 </p>
