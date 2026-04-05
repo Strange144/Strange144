@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="40"/>
+    <img src="https://cdn.simpleicons.org/linkedin" height="42" style="filter: invert(1);" />
   </a>
   
   <a href="https://github.com/YOUR_USERNAME">
