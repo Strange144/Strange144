@@ -24,7 +24,7 @@
   </a>
 </p>
 <hr style="border: none; height: 0.2px; background-color: #444; width: 60%; margin: 15px auto;">
-<br>
+
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-</br>
+
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strange144&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
