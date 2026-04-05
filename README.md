@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/YOUR_USERNAME">
   <img src="linkedin-app-white-icon.webp" height="28"/>
 </a>
-  <br>
+  <div></div>
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://cdn.simpleicons.org/github/ffffff" height="30"/>
   </a>
