@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "This pin is all about coding.gif"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
