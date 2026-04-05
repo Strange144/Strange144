@@ -3,6 +3,46 @@
 <!-- Icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <img src = "This pin is all about coding.gif"/>
+<style>
+        .social-icons {
+    margin: 15px 0;
+}
+
+.social-icons i {
+    margin: 0 10px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.social-icons i:hover {
+    color: purple;
+}
+
+/* Section Title */
+.section-title {
+    margin: 30px 0 10px;
+    color: #aaa;
+    font-size: 14px;
+}
+
+/* Stats Box */
+.stats {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.card {
+    flex: 1;
+    background: #111;
+    border: 1px solid #333;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+</style>
 <p align="center">Hi, I’m Ansul Joshi, a BSc CS student. Turning late-night ideas into real-world code, I enjoy building modern web apps that are clean, functional, and impactful. Constantly learning and experimenting, I aim to create digital experiences that not only work well but also feel intuitive and meaningful.
 </p>
 <div class="social-icons">
