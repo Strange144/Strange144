@@ -23,8 +23,7 @@
     <img src="https://cdn.simpleicons.org/gmail/ffffff" height="30"/>
   </a>
 </p>
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
+<br>
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -66,6 +65,7 @@
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+</br>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strange144&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
